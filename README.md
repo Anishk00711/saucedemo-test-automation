@@ -17,3 +17,6 @@ This project contains end-to-end automated tests using Selenium and Pytest for [
 - Follows Page Object Model (POM) for clean separation of concerns.
 - Reusable functions for login, cart interaction, and page element verification.
 - conftest.py includes fixture setup for reusable browser sessions.
+
+## Report
+- 📄 [Test Report (HTML)](./reports/report.html)
